@@ -68,7 +68,7 @@ def insertion(AI):
 
 
 def quickSort(AI):
-    #print ("hola Quicksort!")
+    #print ("Quicksort")
     def split(IN):
         LA=[]
         RA=[]
@@ -89,7 +89,7 @@ def quickSort(AI):
     #print(split(AI))
 
 def pythonSort(AI):
-    #print ("hola pythonSort!")
+    #print ("PythonSort")
     AI.sort()
     #print(AI)
     
